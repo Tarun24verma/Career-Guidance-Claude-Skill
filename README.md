@@ -25,7 +25,7 @@ romanticized thinking, and tells you what to stop doing — not just what to sta
 
 ## How to install
 
-Download `career-guidance.skill` and install it into your Claude environment.
+Download `career-guidance.skill` and install it into your Claude environment (Check HOW_TO_USE for further clarifications).
 
 ## Trigger phrases
 
